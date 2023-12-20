@@ -74,7 +74,7 @@
         $id = $_GET['id'];
         $servername = "localhost";
         $username = "root";
-        $password = "root";
+        $password = "";
         $dbname = "entreprise";
 
         // Create connection
